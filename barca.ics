@@ -1,0 +1,804 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Idan Diva//Barca Calendar//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ משחקי ברצלונה
+X-WR-TIMEZONE:Asia/Jerusalem
+X-WR-CALDESC:כל משחקי ברצלונה – לה ליגה\, אלופו
+ ת\, גביע המלך וסופרקופה. נוצר ע״י עידן דיו
+ ה
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401882913@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20260823T193000Z
+DTEND:20260823T213000Z
+SUMMARY:⚽ ברצלונה נגד אלצ'ה (חוץ) | 5:0 ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio Mart
+ ínez Valero\, Elche\nℹ️ על היריבה: קבוצה מאזור ול
+ נסיה שחזרה לליגה לאחרונה\, נלחמת על הישאר
+ ות.
+LOCATION:Estadio Martínez Valero\, Elche
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882921@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20260827T190000Z
+DTEND:20260827T210000Z
+SUMMARY:⚽ ברצלונה נגד אתלטיק בילבאו (בית) | 2:0 
+ ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: הקבוצה הבאסקית ש
+ משחקת רק עם שחקנים מחבל הבאסקים. קהל רועש
+  בסן מאמס.
+LOCATION:Spotify Camp Nou\, Barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882903@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20260831T193000Z
+DTEND:20260831T213000Z
+SUMMARY:⚽ ברצלונה נגד ראיו וייקאנו (בית) | 5:2 
+ ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: קבוצת שכונת וייק
+ אס במדריד\, מגרש קטן ואופי עממי.
+LOCATION:Spotify Camp Nou\, Barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882888@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20260906T141500Z
+DTEND:20260906T161500Z
+SUMMARY:⚽ ברצלונה נגד ולנסיה (חוץ) | 5:0 ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Mestalla Stad
+ ium\, Manises\nℹ️ על היריבה: אחת המועדונים ההי
+ סטוריים של ספרד\, 6 אליפויות. המסטאיה ידוע
+ ה באווירה החמה.
+LOCATION:Mestalla Stadium\, Manises
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915424@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20260909T164500Z
+DTEND:20260909T184500Z
+SUMMARY:⚽ ברצלונה נגד פיינורד (בית) | 5:1 ✅
+DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Spo
+ tify Camp Nou\, Barcelona\nℹ️ על היריבה: מגדולות הול
+ נד מרוטרדם\, עם אחד הקהלים הלוהטים באירופ
+ ה.
+LOCATION:Spotify Camp Nou\, Barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882883@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20260913T141500Z
+DTEND:20260913T161500Z
+SUMMARY:⚽ ברצלונה נגד לבאנטה (חוץ) | 4:2 ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadi Ciutat
+  de València\, Manises\nℹ️ על היריבה: הקבוצה השניי
+ ה של ולנסיה\, משחקת קרוב לחוף.
+LOCATION:Estadi Ciutat de València\, Manises
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882871@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20260916T193000Z
+DTEND:20260916T213000Z
+SUMMARY:⚽ ברצלונה נגד רסינג סנטאנדר (בית) | 7:2 
+ ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: עלתה העונה כאלופ
+ ת הליגה השנייה וחוזרת לליגה הבכירה אחרי 1
+ 4 שנה.
+LOCATION:Spotify Camp Nou\, Barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882859@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20260919T190000Z
+DTEND:20260919T210000Z
+SUMMARY:⚽ ברצלונה נגד סביליה (חוץ) | 3:1 ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Ramón Sánch
+ ez Pizjuán Stadium\, Sevilla\nℹ️ על היריבה: שיאנית הל
+ יגה האירופית (7 זכיות). מהאצטדיונים הלוהט
+ ים בספרד.
+LOCATION:Ramón Sánchez Pizjuán Stadium\, Sevilla
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882853@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261010T163000Z
+DTEND:20261010T183000Z
+SUMMARY:⚽ ברצלונה נגד חטאפה (בית) | 3:0 ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: הקבוצה מפרברי מד
+ ריד\, ידועה במשחק קשוח ושובר קצב.
+LOCATION:Spotify Camp Nou\, Barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915435@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:⚽ ברצלונה נגד גלטסראי (חוץ) | 4:1 ✅
+DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: RAM
+ S Park\, Istanbul\nℹ️ על היריבה: ענקית טורקית מא
+ יסטנבול – האווירה במגרש שלה מפורסמת כמפ
+ חידה.
+LOCATION:RAMS Park\, Istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882846@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:⚽ ברצלונה נגד בטיס (חוץ) | 5:2 ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio La Ca
+ rtuja\, Sevilla\nℹ️ על היריבה: הקבוצה הירוקה-לב
+ נה מסביליה. העונה משחקת זמנית באצטדיון ל
+ ה קרטוחה בזמן שהבית שלה בשיפוץ.
+LOCATION:Estadio La Cartuja\, Sevilla
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915399@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:⚽ ברצלונה נגד פריז סן ז'רמן (חוץ) | 2:4 
+ ❌
+DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Par
+ c des Princes\, Paris\nℹ️ על היריבה: אלופת צרפת הק
+ בועה וזוכת האלופות 2025\, עם תקציב ענק.
+LOCATION:Parc des Princes\, Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882832@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:⚽ ברצלונה נגד ריאל מדריד (בית) | 1:2 ❌
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: היריבה הגדולה – 
+ זה הקלאסיקו. שיאנית גביעי האלופות\, והמשח
+ ק הכי חשוב בעונה.
+LOCATION:Spotify Camp Nou\, Barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882822@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:⚽ ברצלונה נגד אלאבס (בית) | 6:1 ✅
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: קבוצה באסקית מוו
+ יטוריה\, נלחמת בדרך כלל על הישארות בליגה.
+LOCATION:Spotify Camp Nou\, Barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915387@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:⚽ ברצלונה נגד אסטון וילה (בית) | 3:0 ✅
+DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Spo
+ tify Camp Nou\, Barcelona\nℹ️ על היריבה: מועדון מביר
+ מינגהם שזכה באלופות ב-1982 וחזר לאחרונה לצ
+ מרת אנגליה.
+LOCATION:Spotify Camp Nou\, Barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882816@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261108T200000Z
+DTEND:20261108T220000Z
+SUMMARY:⚽ ברצלונה נגד אתלטיקו מדריד (חוץ)
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Riyadh Air Me
+ tropolitano\, Madrid\nℹ️ על היריבה: הקבוצה של סימא
+ ונה מהבירה: הגנה קשוחה\, משחק פיזי\, ובעונ
+ ה הזאת הגמר של ליגת האלופות במגרש שלה.
+LOCATION:Riyadh Air Metropolitano\, Madrid
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:עוד שעה משחק של ברצלונה!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882804@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
+SUMMARY:⚽ ברצלונה נגד ויאריאל (בית)
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: ״הצוללת הצהובה״ 
+ – קבוצה מעיר קטנה שזכתה בליגה האירופית ו
+ משחקת השנה גם באלופות.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:עוד שעה משחק של ברצלונה!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915378@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+SUMMARY:⚽ ברצלונה נגד סבאח (חוץ)
+DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Bak
+ u Olympic Stadium\, Baku\nℹ️ על היריבה: קבוצה מבאקו\
+ , אזרבייג'ן – שם קטן ולא מוכר בליגת האלופ
+ ות.
+LOCATION:Baku Olympic Stadium\, Baku
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:עוד שעה משחק של ברצלונה!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882794@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:⚽ ברצלונה נגד דפורטיבו לה קורוניה (ח
+ וץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Riazor\, La C
+ oruña\nℹ️ על היריבה: עלתה העונה. זכתה באליפ
+ ות ב-2000 והגיעה לחצי גמר האלופות – חוזרת ל
+ ליגה אחרי שנים בליגות הנמוכות.\n🕒 שעת המ
+ שחק עדיין לא נקבעה – היומן יתעדכן אוטומט
+ ית כשתיקבע.
+LOCATION:Riazor\, La Coruña
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882783@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:⚽ ברצלונה נגד סלטה ויגו (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: הקבוצה הגליסית מ
+ החוף האטלנטי\, מעדיפה כדורגל התקפי.\n🕒 שע
+ ת המשחק עדיין לא נקבעה – היומן יתעדכן או
+ טומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915285@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:⚽ ברצלונה נגד מנצ'סטר סיטי (בית)
+DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Spo
+ tify Camp Nou\, Barcelona\nℹ️ על היריבה: זוכת האלופו
+ ת 2023 – הקבוצה שבנה פפ גווארדיולה\, המאמן 
+ האגדי לשעבר של ברצלונה.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:עוד שעה משחק של ברצלונה!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882770@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:⚽ ברצלונה נגד מאלגה (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: La Rosaleda\,
+  Malaga\nℹ️ על היריבה: עלתה העונה. הגיעה לרב
+ ע גמר האלופות ב-2013\, ומשחקת עכשיו על הישאר
+ ות.\n🕒 שעת המשחק עדיין לא נקבעה – היומן י
+ תעדכן אוטומטית כשתיקבע.
+LOCATION:La Rosaleda\, Malaga
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882762@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:⚽ ברצלונה נגד ריאל סוסיאדד (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: קבוצה באסקית מסן 
+ סבסטיאן עם אקדמיה מצוינת וכדורגל טכני.\n
+ 🕒 שעת המשחק עדיין לא נקבעה – היומן יתעד
+ כן אוטומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882754@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:⚽ ברצלונה נגד אספניול (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: RCDE Stadium\
+ , Barcelona\nℹ️ על היריבה: היריבה העירונית מב
+ רצלונה – זה דרבי ברצלונה.\n🕒 שעת המשחק ע
+ דיין לא נקבעה – היומן יתעדכן אוטומטית כש
+ תיקבע.
+LOCATION:RCDE Stadium\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882740@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:⚽ ברצלונה נגד אוססונה (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: El Sadar\, Pa
+ mplona\nℹ️ על היריבה: הקבוצה מפמפלונה. האל ס
+ אדאר צפוף ורועש – מגרש חוץ קשה במיוחד.\n
+ 🕒 שעת המשחק עדיין לא נקבעה – היומן יתעד
+ כן אוטומטית כשתיקבע.
+LOCATION:El Sadar\, Pamplona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882733@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:⚽ ברצלונה נגד אלצ'ה (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: קבוצה מאזור ולנס
+ יה שחזרה לליגה לאחרונה\, נלחמת על הישארות
+ .\n🕒 שעת המשחק עדיין לא נקבעה – היומן יתע
+ דכן אוטומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915356@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:⚽ ברצלונה נגד ספורטינג ליסבון (חוץ)
+DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Est
+ ádio José Alvalade\, Lisbon\nℹ️ על היריבה: מגדולי פו
+ רטוגל\, האקדמיה שהוציאה את כריסטיאנו רונ
+ אלדו.
+LOCATION:Estádio José Alvalade\, Lisbon
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:עוד שעה משחק של ברצלונה!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882726@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:⚽ ברצלונה נגד אלאבס (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Mendizorrotza
+ \, Vitoria-Gasteiz\nℹ️ על היריבה: קבוצה באסקית מו
+ ויטוריה\, נלחמת בדרך כלל על הישארות בליגה
+ .\n🕒 שעת המשחק עדיין לא נקבעה – היומן יתע
+ דכן אוטומטית כשתיקבע.
+LOCATION:Mendizorrotza\, Vitoria-Gasteiz
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915264@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:⚽ ברצלונה נגד קומו (בית)
+DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Spo
+ tify Camp Nou\, Barcelona\nℹ️ על היריבה: קבוצה מאגם 
+ קומו שטיפסה מהר לצמרת איטליה\, בהובלת ססק
+  פברגאס – בוגר לה מאסיה.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:עוד שעה משחק של ברצלונה!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882713@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:⚽ ברצלונה נגד ולנסיה (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: אחת המועדונים הה
+ יסטוריים של ספרד\, 6 אליפויות. המסטאיה ידו
+ עה באווירה החמה.\n🕒 שעת המשחק עדיין לא נק
+ בעה – היומן יתעדכן אוטומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892163@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART:20270202T190000Z
+DTEND:20270202T210000Z
+SUMMARY:⚽ ברצלונה נגד אתלטיקו מדריד (בית)
+DESCRIPTION:🏆 מסגרת: סופרקופה\n🏟️ מגרש: Şükrü S
+ aracoğlu Stadium\, Istanbul\nℹ️ על היריבה: הקבוצה של 
+ סימאונה מהבירה: הגנה קשוחה\, משחק פיזי\, ו
+ בעונה הזאת הגמר של ליגת האלופות במגרש של
+ ה.
+LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:עוד שעה משחק של ברצלונה!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882700@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:⚽ ברצלונה נגד אתלטיקו מדריד (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: הקבוצה של סימאונ
+ ה מהבירה: הגנה קשוחה\, משחק פיזי\, ובעונה ה
+ זאת הגמר של ליגת האלופות במגרש שלה.\n🕒 שע
+ ת המשחק עדיין לא נקבעה – היומן יתעדכן או
+ טומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882687@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:⚽ ברצלונה נגד ויאריאל (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio de la
+  Cerámica\, Villarreal\nℹ️ על היריבה: ״הצוללת הצהו
+ בה״ – קבוצה מעיר קטנה שזכתה בליגה האירופ
+ ית ומשחקת השנה גם באלופות.\n🕒 שעת המשחק ע
+ דיין לא נקבעה – היומן יתעדכן אוטומטית כש
+ תיקבע.
+LOCATION:Estadio de la Cerámica\, Villarreal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882681@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:⚽ ברצלונה נגד לבאנטה (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: הקבוצה השנייה של 
+ ולנסיה\, משחקת קרוב לחוף.\n🕒 שעת המשחק עד
+ יין לא נקבעה – היומן יתעדכן אוטומטית כשת
+ יקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882676@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:⚽ ברצלונה נגד אתלטיק בילבאו (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: San Mamés\, 
+ Bilbao\nℹ️ על היריבה: הקבוצה הבאסקית שמשחקת
+  רק עם שחקנים מחבל הבאסקים. קהל רועש בסן מ
+ אמס.\n🕒 שעת המשחק עדיין לא נקבעה – היומן 
+ יתעדכן אוטומטית כשתיקבע.
+LOCATION:San Mamés\, Bilbao
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882661@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:⚽ ברצלונה נגד בטיס (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: הקבוצה הירוקה-לב
+ נה מסביליה. העונה משחקת זמנית באצטדיון ל
+ ה קרטוחה בזמן שהבית שלה בשיפוץ.\n🕒 שעת המ
+ שחק עדיין לא נקבעה – היומן יתעדכן אוטומט
+ ית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882652@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:⚽ ברצלונה נגד דפורטיבו לה קורוניה (ב
+ ית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: עלתה העונה. זכתה 
+ באליפות ב-2000 והגיעה לחצי גמר האלופות – ח
+ וזרת לליגה אחרי שנים בליגות הנמוכות.\n🕒 
+ שעת המשחק עדיין לא נקבעה – היומן יתעדכן 
+ אוטומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882641@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:⚽ ברצלונה נגד ראיו וייקאנו (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio de Va
+ llecas\, Madrid\nℹ️ על היריבה: קבוצת שכונת וייק
+ אס במדריד\, מגרש קטן ואופי עממי.\n🕒 שעת המ
+ שחק עדיין לא נקבעה – היומן יתעדכן אוטומט
+ ית כשתיקבע.
+LOCATION:Estadio de Vallecas\, Madrid
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882632@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:⚽ ברצלונה נגד סביליה (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: שיאנית הליגה האי
+ רופית (7 זכיות). מהאצטדיונים הלוהטים בספר
+ ד.\n🕒 שעת המשחק עדיין לא נקבעה – היומן ית
+ עדכן אוטומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882621@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:⚽ ברצלונה נגד רסינג סנטאנדר (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: El Sardineros
+ \, Santander\nℹ️ על היריבה: עלתה העונה כאלופת 
+ הליגה השנייה וחוזרת לליגה הבכירה אחרי 14 
+ שנה.\n🕒 שעת המשחק עדיין לא נקבעה – היומן 
+ יתעדכן אוטומטית כשתיקבע.
+LOCATION:El Sardineros\, Santander
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882611@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:⚽ ברצלונה נגד אספניול (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: היריבה העירונית 
+ מברצלונה – זה דרבי ברצלונה.\n🕒 שעת המשחק
+  עדיין לא נקבעה – היומן יתעדכן אוטומטית 
+ כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882605@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:⚽ ברצלונה נגד סלטה ויגו (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Balaidos\, Vi
+ go\nℹ️ על היריבה: הקבוצה הגליסית מהחוף הא
+ טלנטי\, מעדיפה כדורגל התקפי.\n🕒 שעת המשחק
+  עדיין לא נקבעה – היומן יתעדכן אוטומטית 
+ כשתיקבע.
+LOCATION:Balaidos\, Vigo
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882591@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:⚽ ברצלונה נגד אוססונה (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: הקבוצה מפמפלונה. 
+ האל סאדאר צפוף ורועש – מגרש חוץ קשה במיו
+ חד.\n🕒 שעת המשחק עדיין לא נקבעה – היומן י
+ תעדכן אוטומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882579@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:⚽ ברצלונה נגד ריאל מדריד (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Santiago Bern
+ abéu\, Madrid\nℹ️ על היריבה: היריבה הגדולה – ז
+ ה הקלאסיקו. שיאנית גביעי האלופות\, והמשחק
+  הכי חשוב בעונה.\n🕒 שעת המשחק עדיין לא נק
+ בעה – היומן יתעדכן אוטומטית כשתיקבע.
+LOCATION:Santiago Bernabéu\, Madrid
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882568@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:⚽ ברצלונה נגד ריאל סוסיאדד (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Reale Arena\,
+  San Sebastian\nℹ️ על היריבה: קבוצה באסקית מסן 
+ סבסטיאן עם אקדמיה מצוינת וכדורגל טכני.\n
+ 🕒 שעת המשחק עדיין לא נקבעה – היומן יתעד
+ כן אוטומטית כשתיקבע.
+LOCATION:Reale Arena\, San Sebastian
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882562@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:⚽ ברצלונה נגד מאלגה (בית) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
+ Nou\, Barcelona\nℹ️ על היריבה: עלתה העונה. הגיעה
+  לרבע גמר האלופות ב-2013\, ומשחקת עכשיו על ה
+ ישארות.\n🕒 שעת המשחק עדיין לא נקבעה – הי
+ ומן יתעדכן אוטומטית כשתיקבע.
+LOCATION:Spotify Camp Nou\, Barcelona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882552@barca-calendar
+DTSTAMP:20261105T092757Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:⚽ ברצלונה נגד חטאפה (חוץ) 🕒
+DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio Colis
+ eum\, Getafe\nℹ️ על היריבה: הקבוצה מפרברי מדרי
+ ד\, ידועה במשחק קשוח ושובר קצב.\n🕒 שעת המש
+ חק עדיין לא נקבעה – היומן יתעדכן אוטומטי
+ ת כשתיקבע.
+LOCATION:Estadio Coliseum\, Getafe
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:מחר משחק של ברצלונה!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
