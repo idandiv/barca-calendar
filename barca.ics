@@ -12,19 +12,20 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:espn-401882913@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20260823T193000Z
 DTEND:20260823T213000Z
 SUMMARY:⚽ ברצלונה נגד אלצ'ה (חוץ) | 5:0 ✅
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio Mart
  ínez Valero\, Elche\nℹ️ על היריבה: קבוצה מאזור ול
  נסיה שחזרה לליגה לאחרונה\, נלחמת על הישאר
- ות.
+ ות.\n🆚 המפגש האחרון: ניצחון של ברצלונה 3:1 
+ (בחוץ\, ינואר 2026)
 LOCATION:Estadio Martínez Valero\, Elche
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882921@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20260827T190000Z
 DTEND:20260827T210000Z
 SUMMARY:⚽ ברצלונה נגד אתלטיק בילבאו (בית) | 2:0 
@@ -32,36 +33,40 @@ SUMMARY:⚽ ברצלונה נגד אתלטיק בילבאו (בית) | 2:0
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: הקבוצה הבאסקית ש
  משחקת רק עם שחקנים מחבל הבאסקים. קהל רועש
-  בסן מאמס.
+  בסן מאמס.\n🆚 המפגש האחרון: ניצחון של ברצ
+ לונה 1:0 (בחוץ\, מרץ 2026)
 LOCATION:Spotify Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882903@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20260831T193000Z
 DTEND:20260831T213000Z
 SUMMARY:⚽ ברצלונה נגד ראיו וייקאנו (בית) | 5:2 
  ✅
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: קבוצת שכונת וייק
- אס במדריד\, מגרש קטן ואופי עממי.
+ אס במדריד\, מגרש קטן ואופי עממי.\n🆚 המפגש 
+ האחרון: ניצחון של ברצלונה 1:0 (בבית\, מרץ 2026
+ )
 LOCATION:Spotify Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882888@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20260906T141500Z
 DTEND:20260906T161500Z
 SUMMARY:⚽ ברצלונה נגד ולנסיה (חוץ) | 5:0 ✅
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Mestalla Stad
  ium\, Manises\nℹ️ על היריבה: אחת המועדונים ההי
  סטוריים של ספרד\, 6 אליפויות. המסטאיה ידוע
- ה באווירה החמה.
+ ה באווירה החמה.\n🆚 המפגש האחרון: הפסד של 
+ ברצלונה 1:3 (בחוץ\, מאי 2026)
 LOCATION:Mestalla Stadium\, Manises
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401915424@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20260909T164500Z
 DTEND:20260909T184500Z
 SUMMARY:⚽ ברצלונה נגד פיינורד (בית) | 5:1 ✅
@@ -73,18 +78,20 @@ LOCATION:Spotify Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882883@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20260913T141500Z
 DTEND:20260913T161500Z
 SUMMARY:⚽ ברצלונה נגד לבאנטה (חוץ) | 4:2 ✅
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadi Ciutat
   de València\, Manises\nℹ️ על היריבה: הקבוצה השניי
- ה של ולנסיה\, משחקת קרוב לחוף.
+ ה של ולנסיה\, משחקת קרוב לחוף.\n🆚 המפגש הא
+ חרון: ניצחון של ברצלונה 3:0 (בבית\, פברואר 20
+ 26)
 LOCATION:Estadi Ciutat de València\, Manises
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882871@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20260916T193000Z
 DTEND:20260916T213000Z
 SUMMARY:⚽ ברצלונה נגד רסינג סנטאנדר (בית) | 7:2 
@@ -92,35 +99,39 @@ SUMMARY:⚽ ברצלונה נגד רסינג סנטאנדר (בית) | 7:2
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: עלתה העונה כאלופ
  ת הליגה השנייה וחוזרת לליגה הבכירה אחרי 1
- 4 שנה.
+ 4 שנה.\n🆚 המפגש האחרון: ניצחון של ברצלונה 
+ 2:0 (בחוץ\, ינואר 2026)
 LOCATION:Spotify Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882859@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20260919T190000Z
 DTEND:20260919T210000Z
 SUMMARY:⚽ ברצלונה נגד סביליה (חוץ) | 3:1 ✅
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Ramón Sánch
  ez Pizjuán Stadium\, Sevilla\nℹ️ על היריבה: שיאנית הל
  יגה האירופית (7 זכיות). מהאצטדיונים הלוהט
- ים בספרד.
+ ים בספרד.\n🆚 המפגש האחרון: ניצחון של ברצל
+ ונה 5:2 (בבית\, מרץ 2026)
 LOCATION:Ramón Sánchez Pizjuán Stadium\, Sevilla
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882853@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261010T163000Z
 DTEND:20261010T183000Z
 SUMMARY:⚽ ברצלונה נגד חטאפה (בית) | 3:0 ✅
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: הקבוצה מפרברי מד
- ריד\, ידועה במשחק קשוח ושובר קצב.
+ ריד\, ידועה במשחק קשוח ושובר קצב.\n🆚 המפג
+ ש האחרון: ניצחון של ברצלונה 2:0 (בחוץ\, אפרי
+ ל 2026)
 LOCATION:Spotify Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401915435@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:⚽ ברצלונה נגד גלטסראי (חוץ) | 4:1 ✅
@@ -132,54 +143,61 @@ LOCATION:RAMS Park\, Istanbul
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882846@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
-SUMMARY:⚽ ברצלונה נגד בטיס (חוץ) | 5:2 ✅
+SUMMARY:🔥 ברצלונה נגד בטיס (חוץ) | 5:2 ✅
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio La Ca
  rtuja\, Sevilla\nℹ️ על היריבה: הקבוצה הירוקה-לב
  נה מסביליה. העונה משחקת זמנית באצטדיון ל
- ה קרטוחה בזמן שהבית שלה בשיפוץ.
+ ה קרטוחה בזמן שהבית שלה בשיפוץ.\n🆚 המפגש 
+ האחרון: ניצחון של ברצלונה 3:1 (בבית\, מאי 2026
+ )\n🔥 משחק גדול!
 LOCATION:Estadio La Cartuja\, Sevilla
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401915399@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261020T190000Z
 DTEND:20261020T210000Z
-SUMMARY:⚽ ברצלונה נגד פריז סן ז'רמן (חוץ) | 2:4 
+SUMMARY:🔥 ברצלונה נגד פריז סן ז'רמן (חוץ) | 2:4 
  ❌
 DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Par
  c des Princes\, Paris\nℹ️ על היריבה: אלופת צרפת הק
- בועה וזוכת האלופות 2025\, עם תקציב ענק.
+ בועה וזוכת האלופות 2025\, עם תקציב ענק.\n🆚 ה
+ מפגש האחרון: הפסד של ברצלונה 1:2 (בבית\, אוק
+ טובר 2025)\n🔥 משחק גדול!
 LOCATION:Parc des Princes\, Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882832@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261025T200000Z
 DTEND:20261025T220000Z
-SUMMARY:⚽ ברצלונה נגד ריאל מדריד (בית) | 1:2 ❌
+SUMMARY:🔥 ברצלונה נגד ריאל מדריד (בית) | 1:2 ❌
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: היריבה הגדולה – 
  זה הקלאסיקו. שיאנית גביעי האלופות\, והמשח
- ק הכי חשוב בעונה.
+ ק הכי חשוב בעונה.\n🆚 המפגש האחרון: ניצחון
+  של ברצלונה 2:0 (בבית\, מאי 2026)\n🔥 משחק גדול!
 LOCATION:Spotify Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882822@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261031T200000Z
 DTEND:20261031T220000Z
 SUMMARY:⚽ ברצלונה נגד אלאבס (בית) | 6:1 ✅
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: קבוצה באסקית מוו
- יטוריה\, נלחמת בדרך כלל על הישארות בליגה.
+ יטוריה\, נלחמת בדרך כלל על הישארות בליגה.\
+ n🆚 המפגש האחרון: הפסד של ברצלונה 0:1 (בחוץ\
+ , מאי 2026)
 LOCATION:Spotify Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401915387@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
 SUMMARY:⚽ ברצלונה נגד אסטון וילה (בית) | 3:0 ✅
@@ -191,14 +209,18 @@ LOCATION:Spotify Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882816@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261108T200000Z
 DTEND:20261108T220000Z
-SUMMARY:⚽ ברצלונה נגד אתלטיקו מדריד (חוץ)
+SUMMARY:🔥 ברצלונה נגד אתלטיקו מדריד (חוץ)
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Riyadh Air Me
  tropolitano\, Madrid\nℹ️ על היריבה: הקבוצה של סימא
  ונה מהבירה: הגנה קשוחה\, משחק פיזי\, ובעונ
- ה הזאת הגמר של ליגת האלופות במגרש שלה.
+ ה הזאת הגמר של ליגת האלופות במגרש שלה.\n📊
+  בטבלה: מקום 2 עם 28 נקודות אחרי 11 משחקים\n
+ 📈 כושר: ב-5 המשחקים האחרונים: 5 ניצחונות\n
+ 🆚 המפגש האחרון: ניצחון של ברצלונה 2:1 (בחו
+ ץ\, אפריל 2026)\n🔥 משחק גדול!
 LOCATION:Riyadh Air Metropolitano\, Madrid
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -213,14 +235,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882804@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:⚽ ברצלונה נגד ויאריאל (בית)
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: ״הצוללת הצהובה״ 
  – קבוצה מעיר קטנה שזכתה בליגה האירופית ו
- משחקת השנה גם באלופות.
+ משחקת השנה גם באלופות.\n📊 בטבלה: מקום 9 עם
+  12 נקודות אחרי 11 משחקים\n📈 כושר: ב-5 המשחק
+ ים האחרונים: 2 ניצחונות\, תיקו אחד\, 2 הפסדי
+ ם\n🆚 המפגש האחרון: ניצחון של ברצלונה 4:1 (ב
+ בית\, פברואר 2026)
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -235,14 +261,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401915378@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261125T174500Z
 DTEND:20261125T194500Z
 SUMMARY:⚽ ברצלונה נגד סבאח (חוץ)
 DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Bak
  u Olympic Stadium\, Baku\nℹ️ על היריבה: קבוצה מבאקו\
  , אזרבייג'ן – שם קטן ולא מוכר בליגת האלופ
- ות.
+ ות.\n📊 בטבלה: מקום 31 עם 3 נקודות אחרי 4 משח
+ קים\n📈 כושר: ב-4 המשחקים האחרונים: ניצחון 
+ אחד\, 3 הפסדים
 LOCATION:Baku Olympic Stadium\, Baku
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -257,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882794@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:⚽ ברצלונה נגד דפורטיבו לה קורוניה (ח
@@ -265,9 +293,11 @@ SUMMARY:⚽ ברצלונה נגד דפורטיבו לה קורוניה (ח
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Riazor\, La C
  oruña\nℹ️ על היריבה: עלתה העונה. זכתה באליפ
  ות ב-2000 והגיעה לחצי גמר האלופות – חוזרת ל
- ליגה אחרי שנים בליגות הנמוכות.\n🕒 שעת המ
- שחק עדיין לא נקבעה – היומן יתעדכן אוטומט
- ית כשתיקבע.
+ ליגה אחרי שנים בליגות הנמוכות.\n📊 בטבלה: 
+ מקום 8 עם 14 נקודות אחרי 11 משחקים\n📈 כושר: 
+ ב-5 המשחקים האחרונים: ניצחון אחד\, 2 תיקו\, 2
+  הפסדים\n🕒 שעת המשחק עדיין לא נקבעה – הי
+ ומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Riazor\, La Coruña
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -277,15 +307,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882783@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:⚽ ברצלונה נגד סלטה ויגו (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: הקבוצה הגליסית מ
- החוף האטלנטי\, מעדיפה כדורגל התקפי.\n🕒 שע
- ת המשחק עדיין לא נקבעה – היומן יתעדכן או
- טומטית כשתיקבע.
+ החוף האטלנטי\, מעדיפה כדורגל התקפי.\n📊 בט
+ בלה: מקום 10 עם 12 נקודות אחרי 11 משחקים\n🆚 ה
+ מפגש האחרון: ניצחון של ברצלונה 1:0 (בבית\, א
+ פריל 2026)\n🕒 שעת המשחק עדיין לא נקבעה – הי
+ ומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -295,14 +327,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401915285@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20261208T200000Z
 DTEND:20261208T220000Z
-SUMMARY:⚽ ברצלונה נגד מנצ'סטר סיטי (בית)
+SUMMARY:🔥 ברצלונה נגד מנצ'סטר סיטי (בית)
 DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Spo
  tify Camp Nou\, Barcelona\nℹ️ על היריבה: זוכת האלופו
  ת 2023 – הקבוצה שבנה פפ גווארדיולה\, המאמן 
- האגדי לשעבר של ברצלונה.
+ האגדי לשעבר של ברצלונה.\n📊 בטבלה: מקום 7 ע
+ ם 9 נקודות אחרי 4 משחקים\n🔥 משחק גדול!
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -317,15 +350,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882770@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:⚽ ברצלונה נגד מאלגה (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: La Rosaleda\,
   Malaga\nℹ️ על היריבה: עלתה העונה. הגיעה לרב
  ע גמר האלופות ב-2013\, ומשחקת עכשיו על הישאר
- ות.\n🕒 שעת המשחק עדיין לא נקבעה – היומן י
- תעדכן אוטומטית כשתיקבע.
+ ות.\n📊 בטבלה: מקום 20 עם 5 נקודות אחרי 11 משח
+ קים\n🕒 שעת המשחק עדיין לא נקבעה – היומן 
+ יתעדכן אוטומטית כשתיקבע.
 LOCATION:La Rosaleda\, Malaga
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -335,15 +369,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882762@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:⚽ ברצלונה נגד ריאל סוסיאדד (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: קבוצה באסקית מסן 
  סבסטיאן עם אקדמיה מצוינת וכדורגל טכני.\n
- 🕒 שעת המשחק עדיין לא נקבעה – היומן יתעד
- כן אוטומטית כשתיקבע.
+ 📊 בטבלה: מקום 5 עם 19 נקודות אחרי 11 משחקים\
+ n🆚 המפגש האחרון: הפסד של ברצלונה 1:2 (בחוץ\
+ , ינואר 2026)\n🕒 שעת המשחק עדיין לא נקבעה – 
+ היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -353,15 +389,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882754@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-SUMMARY:⚽ ברצלונה נגד אספניול (חוץ) 🕒
+SUMMARY:🔥 ברצלונה נגד אספניול (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: RCDE Stadium\
  , Barcelona\nℹ️ על היריבה: היריבה העירונית מב
- רצלונה – זה דרבי ברצלונה.\n🕒 שעת המשחק ע
- דיין לא נקבעה – היומן יתעדכן אוטומטית כש
- תיקבע.
+ רצלונה – זה דרבי ברצלונה.\n📊 בטבלה: מקום 
+ 14 עם 11 נקודות אחרי 11 משחקים\n🆚 המפגש האחר
+ ון: ניצחון של ברצלונה 4:1 (בבית\, אפריל 2026)\n
+ 🔥 משחק גדול!\n🕒 שעת המשחק עדיין לא נקבעה
+  – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:RCDE Stadium\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -371,15 +409,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882740@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:⚽ ברצלונה נגד אוססונה (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: El Sadar\, Pa
  mplona\nℹ️ על היריבה: הקבוצה מפמפלונה. האל ס
  אדאר צפוף ורועש – מגרש חוץ קשה במיוחד.\n
- 🕒 שעת המשחק עדיין לא נקבעה – היומן יתעד
- כן אוטומטית כשתיקבע.
+ 📊 בטבלה: מקום 15 עם 11 נקודות אחרי 11 משחקים
+ \n🆚 המפגש האחרון: ניצחון של ברצלונה 2:1 (בח
+ וץ\, מאי 2026)\n🕒 שעת המשחק עדיין לא נקבעה –
+  היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:El Sadar\, Pamplona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -389,15 +429,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882733@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:⚽ ברצלונה נגד אלצ'ה (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: קבוצה מאזור ולנס
  יה שחזרה לליגה לאחרונה\, נלחמת על הישארות
- .\n🕒 שעת המשחק עדיין לא נקבעה – היומן יתע
- דכן אוטומטית כשתיקבע.
+ .\n📊 בטבלה: מקום 17 עם 10 נקודות אחרי 11 משחק
+ ים\n🆚 המפגש האחרון: ניצחון של ברצלונה 5:0 (
+ בחוץ\, אוגוסט 2026)\n🕒 שעת המשחק עדיין לא נק
+ בעה – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -407,14 +449,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401915356@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20270120T200000Z
 DTEND:20270120T220000Z
 SUMMARY:⚽ ברצלונה נגד ספורטינג ליסבון (חוץ)
 DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Est
  ádio José Alvalade\, Lisbon\nℹ️ על היריבה: מגדולי פו
  רטוגל\, האקדמיה שהוציאה את כריסטיאנו רונ
- אלדו.
+ אלדו.\n📊 בטבלה: מקום 10 עם 9 נקודות אחרי 4 מ
+ שחקים
 LOCATION:Estádio José Alvalade\, Lisbon
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -429,15 +472,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882726@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:⚽ ברצלונה נגד אלאבס (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Mendizorrotza
  \, Vitoria-Gasteiz\nℹ️ על היריבה: קבוצה באסקית מו
  ויטוריה\, נלחמת בדרך כלל על הישארות בליגה
- .\n🕒 שעת המשחק עדיין לא נקבעה – היומן יתע
- דכן אוטומטית כשתיקבע.
+ .\n📊 בטבלה: מקום 11 עם 12 נקודות אחרי 11 משחק
+ ים\n🆚 המפגש האחרון: ניצחון של ברצלונה 6:1 (
+ בבית\, אוקטובר 2026)\n🕒 שעת המשחק עדיין לא נ
+ קבעה – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Mendizorrotza\, Vitoria-Gasteiz
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -447,14 +492,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401915264@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
 SUMMARY:⚽ ברצלונה נגד קומו (בית)
 DESCRIPTION:🏆 מסגרת: ליגת האלופות\n🏟️ מגרש: Spo
  tify Camp Nou\, Barcelona\nℹ️ על היריבה: קבוצה מאגם 
  קומו שטיפסה מהר לצמרת איטליה\, בהובלת ססק
-  פברגאס – בוגר לה מאסיה.
+  פברגאס – בוגר לה מאסיה.\n📊 בטבלה: מקום 4 
+ עם 9 נקודות אחרי 4 משחקים
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -469,15 +515,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882713@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:⚽ ברצלונה נגד ולנסיה (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: אחת המועדונים הה
  יסטוריים של ספרד\, 6 אליפויות. המסטאיה ידו
- עה באווירה החמה.\n🕒 שעת המשחק עדיין לא נק
- בעה – היומן יתעדכן אוטומטית כשתיקבע.
+ עה באווירה החמה.\n📊 בטבלה: מקום 19 עם 9 נקו
+ דות אחרי 11 משחקים\n🆚 המפגש האחרון: ניצחו
+ ן של ברצלונה 5:0 (בחוץ\, ספטמבר 2026)\n🕒 שעת ה
+ משחק עדיין לא נקבעה – היומן יתעדכן אוטומ
+ טית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -487,15 +536,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401892163@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART:20270202T190000Z
 DTEND:20270202T210000Z
-SUMMARY:⚽ ברצלונה נגד אתלטיקו מדריד (בית)
+SUMMARY:🔥 ברצלונה נגד אתלטיקו מדריד (בית)
 DESCRIPTION:🏆 מסגרת: סופרקופה\n🏟️ מגרש: Şükrü S
  aracoğlu Stadium\, Istanbul\nℹ️ על היריבה: הקבוצה של 
  סימאונה מהבירה: הגנה קשוחה\, משחק פיזי\, ו
  בעונה הזאת הגמר של ליגת האלופות במגרש של
- ה.
+ ה.\n🆚 המפגש האחרון: ניצחון של ברצלונה 2:1 (
+ בחוץ\, אפריל 2026)\n🔥 משחק גדול!
 LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -510,16 +560,19 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882700@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-SUMMARY:⚽ ברצלונה נגד אתלטיקו מדריד (בית) 🕒
+SUMMARY:🔥 ברצלונה נגד אתלטיקו מדריד (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: הקבוצה של סימאונ
  ה מהבירה: הגנה קשוחה\, משחק פיזי\, ובעונה ה
- זאת הגמר של ליגת האלופות במגרש שלה.\n🕒 שע
- ת המשחק עדיין לא נקבעה – היומן יתעדכן או
- טומטית כשתיקבע.
+ זאת הגמר של ליגת האלופות במגרש שלה.\n📊 בט
+ בלה: מקום 2 עם 28 נקודות אחרי 11 משחקים\n🆚 ה
+ מפגש האחרון: ניצחון של ברצלונה 2:1 (בחוץ\, א
+ פריל 2026)\n🔥 משחק גדול!\n🕒 שעת המשחק עדיין
+  לא נקבעה – היומן יתעדכן אוטומטית כשתיקב
+ ע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -529,16 +582,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882687@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:⚽ ברצלונה נגד ויאריאל (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio de la
   Cerámica\, Villarreal\nℹ️ על היריבה: ״הצוללת הצהו
  בה״ – קבוצה מעיר קטנה שזכתה בליגה האירופ
- ית ומשחקת השנה גם באלופות.\n🕒 שעת המשחק ע
- דיין לא נקבעה – היומן יתעדכן אוטומטית כש
- תיקבע.
+ ית ומשחקת השנה גם באלופות.\n📊 בטבלה: מקום
+  9 עם 12 נקודות אחרי 11 משחקים\n🆚 המפגש האחר
+ ון: ניצחון של ברצלונה 4:1 (בבית\, פברואר 2026)\
+ n🕒 שעת המשחק עדיין לא נקבעה – היומן יתעד
+ כן אוטומטית כשתיקבע.
 LOCATION:Estadio de la Cerámica\, Villarreal
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -548,15 +603,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882681@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:⚽ ברצלונה נגד לבאנטה (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: הקבוצה השנייה של 
- ולנסיה\, משחקת קרוב לחוף.\n🕒 שעת המשחק עד
- יין לא נקבעה – היומן יתעדכן אוטומטית כשת
- יקבע.
+ ולנסיה\, משחקת קרוב לחוף.\n📊 בטבלה: מקום 18
+  עם 10 נקודות אחרי 11 משחקים\n🆚 המפגש האחרו
+ ן: ניצחון של ברצלונה 4:2 (בחוץ\, ספטמבר 2026)\n
+ 🕒 שעת המשחק עדיין לא נקבעה – היומן יתעד
+ כן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -566,15 +623,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882676@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:⚽ ברצלונה נגד אתלטיק בילבאו (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: San Mamés\, 
  Bilbao\nℹ️ על היריבה: הקבוצה הבאסקית שמשחקת
   רק עם שחקנים מחבל הבאסקים. קהל רועש בסן מ
- אמס.\n🕒 שעת המשחק עדיין לא נקבעה – היומן 
- יתעדכן אוטומטית כשתיקבע.
+ אמס.\n📊 בטבלה: מקום 7 עם 15 נקודות אחרי 10 מש
+ חקים\n🆚 המפגש האחרון: ניצחון של ברצלונה 2
+ :0 (בבית\, אוגוסט 2026)\n🕒 שעת המשחק עדיין לא 
+ נקבעה – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:San Mamés\, Bilbao
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -584,16 +643,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882661@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
-SUMMARY:⚽ ברצלונה נגד בטיס (בית) 🕒
+SUMMARY:🔥 ברצלונה נגד בטיס (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: הקבוצה הירוקה-לב
  נה מסביליה. העונה משחקת זמנית באצטדיון ל
- ה קרטוחה בזמן שהבית שלה בשיפוץ.\n🕒 שעת המ
- שחק עדיין לא נקבעה – היומן יתעדכן אוטומט
- ית כשתיקבע.
+ ה קרטוחה בזמן שהבית שלה בשיפוץ.\n📊 בטבלה:
+  מקום 4 עם 23 נקודות אחרי 11 משחקים\n🆚 המפגש
+  האחרון: ניצחון של ברצלונה 5:2 (בחוץ\, אוקטו
+ בר 2026)\n🔥 משחק גדול!\n🕒 שעת המשחק עדיין ל
+ א נקבעה – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -603,7 +664,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882652@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:⚽ ברצלונה נגד דפורטיבו לה קורוניה (ב
@@ -611,8 +672,9 @@ SUMMARY:⚽ ברצלונה נגד דפורטיבו לה קורוניה (ב
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: עלתה העונה. זכתה 
  באליפות ב-2000 והגיעה לחצי גמר האלופות – ח
- וזרת לליגה אחרי שנים בליגות הנמוכות.\n🕒 
- שעת המשחק עדיין לא נקבעה – היומן יתעדכן 
+ וזרת לליגה אחרי שנים בליגות הנמוכות.\n📊 
+ בטבלה: מקום 8 עם 14 נקודות אחרי 11 משחקים\n🕒
+  שעת המשחק עדיין לא נקבעה – היומן יתעדכן 
  אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
@@ -623,15 +685,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882641@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:⚽ ברצלונה נגד ראיו וייקאנו (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio de Va
  llecas\, Madrid\nℹ️ על היריבה: קבוצת שכונת וייק
- אס במדריד\, מגרש קטן ואופי עממי.\n🕒 שעת המ
- שחק עדיין לא נקבעה – היומן יתעדכן אוטומט
- ית כשתיקבע.
+ אס במדריד\, מגרש קטן ואופי עממי.\n📊 בטבלה:
+  מקום 12 עם 12 נקודות אחרי 10 משחקים\n🆚 המפג
+ ש האחרון: ניצחון של ברצלונה 5:2 (בבית\, אוגו
+ סט 2026)\n🕒 שעת המשחק עדיין לא נקבעה – היומ
+ ן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Estadio de Vallecas\, Madrid
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -641,15 +705,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882632@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:⚽ ברצלונה נגד סביליה (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: שיאנית הליגה האי
  רופית (7 זכיות). מהאצטדיונים הלוהטים בספר
- ד.\n🕒 שעת המשחק עדיין לא נקבעה – היומן ית
- עדכן אוטומטית כשתיקבע.
+ ד.\n📊 בטבלה: מקום 6 עם 17 נקודות אחרי 11 משחק
+ ים\n🆚 המפגש האחרון: ניצחון של ברצלונה 3:1 (
+ בחוץ\, ספטמבר 2026)\n🕒 שעת המשחק עדיין לא נק
+ בעה – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -659,15 +725,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882621@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:⚽ ברצלונה נגד רסינג סנטאנדר (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: El Sardineros
  \, Santander\nℹ️ על היריבה: עלתה העונה כאלופת 
  הליגה השנייה וחוזרת לליגה הבכירה אחרי 14 
- שנה.\n🕒 שעת המשחק עדיין לא נקבעה – היומן 
- יתעדכן אוטומטית כשתיקבע.
+ שנה.\n📊 בטבלה: מקום 16 עם 11 נקודות אחרי 11 מ
+ שחקים\n🆚 המפגש האחרון: ניצחון של ברצלונה
+  7:2 (בבית\, ספטמבר 2026)\n🕒 שעת המשחק עדיין ל
+ א נקבעה – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:El Sardineros\, Santander
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -677,15 +745,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882611@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-SUMMARY:⚽ ברצלונה נגד אספניול (בית) 🕒
+SUMMARY:🔥 ברצלונה נגד אספניול (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: היריבה העירונית 
- מברצלונה – זה דרבי ברצלונה.\n🕒 שעת המשחק
-  עדיין לא נקבעה – היומן יתעדכן אוטומטית 
- כשתיקבע.
+ מברצלונה – זה דרבי ברצלונה.\n📊 בטבלה: מק
+ ום 14 עם 11 נקודות אחרי 11 משחקים\n🆚 המפגש ה
+ אחרון: ניצחון של ברצלונה 4:1 (בבית\, אפריל 20
+ 26)\n🔥 משחק גדול!\n🕒 שעת המשחק עדיין לא נק
+ בעה – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -695,15 +765,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882605@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:⚽ ברצלונה נגד סלטה ויגו (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Balaidos\, Vi
  go\nℹ️ על היריבה: הקבוצה הגליסית מהחוף הא
- טלנטי\, מעדיפה כדורגל התקפי.\n🕒 שעת המשחק
-  עדיין לא נקבעה – היומן יתעדכן אוטומטית 
- כשתיקבע.
+ טלנטי\, מעדיפה כדורגל התקפי.\n📊 בטבלה: מק
+ ום 10 עם 12 נקודות אחרי 11 משחקים\n🆚 המפגש ה
+ אחרון: ניצחון של ברצלונה 1:0 (בבית\, אפריל 20
+ 26)\n🕒 שעת המשחק עדיין לא נקבעה – היומן ית
+ עדכן אוטומטית כשתיקבע.
 LOCATION:Balaidos\, Vigo
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -713,15 +785,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882591@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:⚽ ברצלונה נגד אוססונה (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: הקבוצה מפמפלונה. 
  האל סאדאר צפוף ורועש – מגרש חוץ קשה במיו
- חד.\n🕒 שעת המשחק עדיין לא נקבעה – היומן י
- תעדכן אוטומטית כשתיקבע.
+ חד.\n📊 בטבלה: מקום 15 עם 11 נקודות אחרי 11 מש
+ חקים\n🆚 המפגש האחרון: ניצחון של ברצלונה 2
+ :1 (בחוץ\, מאי 2026)\n🕒 שעת המשחק עדיין לא נקב
+ עה – היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -731,15 +805,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882579@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-SUMMARY:⚽ ברצלונה נגד ריאל מדריד (חוץ) 🕒
+SUMMARY:🔥 ברצלונה נגד ריאל מדריד (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Santiago Bern
  abéu\, Madrid\nℹ️ על היריבה: היריבה הגדולה – ז
  ה הקלאסיקו. שיאנית גביעי האלופות\, והמשחק
-  הכי חשוב בעונה.\n🕒 שעת המשחק עדיין לא נק
- בעה – היומן יתעדכן אוטומטית כשתיקבע.
+  הכי חשוב בעונה.\n📊 בטבלה: מקום 3 עם 27 נקוד
+ ות אחרי 11 משחקים\n🆚 המפגש האחרון: הפסד של
+  ברצלונה 1:2 (בבית\, אוקטובר 2026)\n🔥 משחק גדו
+ ל!\n🕒 שעת המשחק עדיין לא נקבעה – היומן ית
+ עדכן אוטומטית כשתיקבע.
 LOCATION:Santiago Bernabéu\, Madrid
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -749,15 +826,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882568@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:⚽ ברצלונה נגד ריאל סוסיאדד (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Reale Arena\,
   San Sebastian\nℹ️ על היריבה: קבוצה באסקית מסן 
  סבסטיאן עם אקדמיה מצוינת וכדורגל טכני.\n
- 🕒 שעת המשחק עדיין לא נקבעה – היומן יתעד
- כן אוטומטית כשתיקבע.
+ 📊 בטבלה: מקום 5 עם 19 נקודות אחרי 11 משחקים\
+ n🆚 המפגש האחרון: הפסד של ברצלונה 1:2 (בחוץ\
+ , ינואר 2026)\n🕒 שעת המשחק עדיין לא נקבעה – 
+ היומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Reale Arena\, San Sebastian
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -767,14 +846,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882562@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:⚽ ברצלונה נגד מאלגה (בית) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Spotify Camp 
  Nou\, Barcelona\nℹ️ על היריבה: עלתה העונה. הגיעה
   לרבע גמר האלופות ב-2013\, ומשחקת עכשיו על ה
- ישארות.\n🕒 שעת המשחק עדיין לא נקבעה – הי
+ ישארות.\n📊 בטבלה: מקום 20 עם 5 נקודות אחרי 1
+ 1 משחקים\n🕒 שעת המשחק עדיין לא נקבעה – הי
  ומן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Spotify Camp Nou\, Barcelona
 BEGIN:VALARM
@@ -785,15 +865,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882552@barca-calendar
-DTSTAMP:20261105T092757Z
+DTSTAMP:20261105T094318Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:⚽ ברצלונה נגד חטאפה (חוץ) 🕒
 DESCRIPTION:🏆 מסגרת: לה ליגה\n🏟️ מגרש: Estadio Colis
  eum\, Getafe\nℹ️ על היריבה: הקבוצה מפרברי מדרי
- ד\, ידועה במשחק קשוח ושובר קצב.\n🕒 שעת המש
- חק עדיין לא נקבעה – היומן יתעדכן אוטומטי
- ת כשתיקבע.
+ ד\, ידועה במשחק קשוח ושובר קצב.\n📊 בטבלה: 
+ מקום 13 עם 12 נקודות אחרי 11 משחקים\n🆚 המפגש
+  האחרון: ניצחון של ברצלונה 3:0 (בבית\, אוקטו
+ בר 2026)\n🕒 שעת המשחק עדיין לא נקבעה – היומ
+ ן יתעדכן אוטומטית כשתיקבע.
 LOCATION:Estadio Coliseum\, Getafe
 BEGIN:VALARM
 ACTION:DISPLAY
